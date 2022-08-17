@@ -20,7 +20,7 @@
             {
               "@type": "HowToDirection",
               "position": "1",
-              "text": "Complete the donation form <a href=https://www.cardonationwizard.com/habitat-for-humanity/donate/donate-a-car-build-a-home-in-your-local-community.html> online</a> or by calling us at 1-877-277-4344. We’ll ask for some information about your vehicle, including the VIN, year, make, model, mileage, and condition."
+              "text": "Complete the donation form to provide Special Olympics with information about your vehicle, including the VIN, year, make, model, and condition."
             }
           ]
         },
@@ -31,7 +31,7 @@
             {
               "@type": "HowToDirection",
               "position": "1",
-              "text": "Provide some information about yourself and let us know where your vehicle will be picked up. Within 2-3 business days, you will be contacted by a local towing agent to schedule a pickup time."
+              "text": "Provide some information about yourself and where the vehicle will be picked up. A local tow agent will contact you within 2-3 business days to schedule a pickup time most convenient for you."
             }
           ]
         },
@@ -42,7 +42,7 @@
             {
               "@type": "HowToDirection",
               "position": "1",
-              "text": "You will receive a confirmation email once you submit your car donation to Habitat for Humanity. Within the email, you will have access to the Donor Console. This will allow you to track the progress of your donation, upload appropriate documents, and find title information. Once your vehicle has been sold, you will be emailed a tax receipt."
+              "text": "After you submit your Special Olympics car donation, you'll receive a confirmation email with access to your Donor Console. Within the Donor Console, you'll be able to track the progress of your car donation, upload documents, and get tax and title information. Once your car is sold, you will receive a confirmation email that includes a tax receipt."
             }
           ]
         }
